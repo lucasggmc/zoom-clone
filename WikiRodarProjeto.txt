@@ -1,0 +1,5 @@
+() => remover todos os node modules e depois rodar nas pastas deles o comando 'npm ci --silent' para restaurar todas as dependencias 
+
+- public -  npm start
+- server - npm start
+- peer-server - npm run dev
